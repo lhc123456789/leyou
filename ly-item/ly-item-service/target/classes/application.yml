@@ -1,0 +1,20 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: item-service
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3308/yun?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai
+    hikari:
+      username: root
+      password: 123456
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+      instance:
+        prefer-ip-address: true
+        ip-address: 127.0.0.1
+mybatis: #打印执行sql语句
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

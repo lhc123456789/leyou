@@ -1,0 +1,28 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: upload-service
+  servlet:
+    multipart:
+      max-file-size: 5MB #限制文件上传大小
+      max-request-size: 10MB #一次请求的限制
+#Eurker
+eureka:
+  client:
+    service-url:
+     defaultZone: http://127.0.0.1:10086/eureka
+  instance:
+    ip-address: 127.0.0.1
+    prefer-ip-address: true
+ly:
+  upload:
+    accessKeyId: LTAI4FqrMQYbPxTivc779CNg
+    accessKeySecret: yIwnhgMwSc6ZCmIAft5XAdHZgKOz84
+    bucketName: leyou-upload-sources
+    endpoint: http://oss-cn-beijing.aliyuncs.com
+    basrUrl: http://image.leyou.com/
+    allowTypes:
+      - image/jpeg
+      - image/png
+      - image/bmp
