@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fe7e12f-ddb6-4344-8cbb-5fe491752df0" name="Default Changelist" comment="微服务商城首次上传，分类管理，品牌管理">
-      <change beforePath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/web/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/web/BrandController.java" afterDir="false" />
+    <list default="true" id="3fe7e12f-ddb6-4344-8cbb-5fe491752df0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/web/BrandController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+            <state relative-caret-position="84">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -539,7 +539,7 @@
       <workItem from="1577544522846" duration="14031000" />
       <workItem from="1577669730657" duration="24698000" />
       <workItem from="1577755857083" duration="14349000" />
-      <workItem from="1577886200815" duration="14932000" />
+      <workItem from="1577886200815" duration="15723000" />
     </task>
     <task id="LOCAL-00001" summary="微服务商城首次上传，分类管理，品牌管理">
       <created>1578023479435</created>
@@ -548,11 +548,32 @@
       <option name="project" value="LOCAL" />
       <updated>1578023479435</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="微服务商城首次上传，分类管理，品牌管理">
+      <created>1578028198064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578028198064</updated>
+    </task>
+    <task id="LOCAL-00003" summary="微服务商城首次上传，分类管理，品牌管理">
+      <created>1578028319431</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578028319431</updated>
+    </task>
+    <task id="LOCAL-00004" summary="微服务商城首次上传，分类管理，品牌管理">
+      <created>1578028640813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578028640813</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155960000" />
+    <option name="totallyTimeSpent" value="156751000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -565,7 +586,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5021216" side_tool="true" weight="0.24731903" />
       <window_info id="Designer" order="1" />
@@ -576,7 +596,7 @@
       <window_info id="simpleUML" order="6" />
       <window_info id="Learn" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="9" sideWeight="0.49787837" visible="true" weight="0.25402144" />
+      <window_info content_ui="combo" id="Project" order="9" sideWeight="0.49787837" visible="true" weight="0.25402144" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281471" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31117398" />
@@ -588,7 +608,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49932975" visible="true" weight="0.30311614" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.49932975" visible="true" weight="0.30311614" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32956153" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32956153" />
@@ -972,8 +992,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java/com/leyou/item/web/BrandController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        <state relative-caret-position="84">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
