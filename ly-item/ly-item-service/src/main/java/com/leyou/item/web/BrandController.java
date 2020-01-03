@@ -47,7 +47,6 @@ public class BrandController {
             brandService.saveBrand(brand,cids);
             return ResponseEntity.status(HttpStatus.CREATED).build();
     }
-
     //删除品牌
     @DeleteMapping("bid/{bid}")
     public ResponseEntity<Void> deleteBrand(@PathVariable("bid")String bid){
