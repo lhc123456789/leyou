@@ -20,7 +20,6 @@ public class BrandController {
 
     @Autowired
     private BrandService brandService;
-
     /****
      *分页查询品牌
      * @param page
